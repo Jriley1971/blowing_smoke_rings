@@ -1,5 +1,11 @@
 # blowing_smoke_rings
-Using a microphone to sense a human "blow" that triggers a solenoid to "hit". This set-up was used in our case to hit the membrane of a chamber filled with smoke, which resulted in smoke rings!
+Concept: 
+To create a mechanism that transforms a single blow into a smoke (vapour) ring. 
+
+Mechanism: 
+The microphone sensor detects a participants blow which triggers an adapted 12V solenoid to hit the membrane of a chamber filled with vapour, the round opening of the chamber allows for a vapour ring to be expelled.
+
+
 
 int soundDetectedPin = A0; // Use Pin A0 as the Input (Microphone sensor)
 int soundDetectedVal = HIGH; //

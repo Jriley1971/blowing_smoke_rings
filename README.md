@@ -1,4 +1,4 @@
-# blowing_smoke_rings
+# Lyco - Smoke Ring Creator
 Concept: 
 To create a mechanism that transforms a single blow into a smoke (vapour) ring. 
 
